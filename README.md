@@ -42,19 +42,11 @@ This repository contains the **manual test cases and bug reports** for the **Use
 
 ---
 
-## 📷 Screenshots
-
-Screenshots are available in the `screenshots/` folder and demonstrate:
-- The test case layout
-- Actual execution results
-- Identified bugs and mismatched outputs
-
----
 
 ## 🔗 Connect
 
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [https://linkedin.com/in/your-profile]  
+📧 Email: [premyerunkar2002@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/prem-yerunkar/]  
 🏷️ Hashtags: `#ManualTesting` `#BugHunting` `#QAEngineer` `#MMLT`
 
 ---
